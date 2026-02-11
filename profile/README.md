@@ -12,6 +12,5 @@ Should you have any questions or require assistance, please reach out to our key
 
 - [**Perry Krug**](mailto:perry@pinecone.io) - For inquiries related to our technical offerings and bespoke solutions, Perry has you covered.
 - [**Zeke Emerson**](mailto:zekepinecone.io) - Head of Technical Support and Customer Success
-- [**Cory Waddingham**](mailto:cory@pinecone.io) - And if you need help with our Cloud or ISV partners, Cory can lend a hand.
 
 Thank you for collaborating with us, and let's build some amazing things together! 🚀
